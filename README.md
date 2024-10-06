@@ -75,5 +75,7 @@ Each course has a corresponding certificate of completion:
 - C4: [Convolutional Neural Networks](C4/C4_Certificate.pdf)
 - C5: [Sequence Models](C5/C5_Certificate.pdf)
 
+### Overall Certificate: [Certificate](Coursera_Deep_Learning_Specialization_Certificate.pdf)
+
 Acknowledgements
 Special thanks to Andrew Ng and DeepLearning.AI for offering this high-quality specialization and making deep learning accessible to everyone.
